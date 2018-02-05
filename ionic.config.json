@@ -1,0 +1,8 @@
+{
+  "name": "ionic-translate",
+  "app_id": "c60dfaa5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
